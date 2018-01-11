@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+  length: 100%;
+}
+
+.left-clmn {
+  width: 33.3%;
+  height: 100%;
+  float: left;
+  background: #4A90E2;
+}
+
+.center-clmn {
+  width: 33.3%;
+  height: 100%;
+  background: #50E3C2;
+}
+
+.right-clmn {
+  width: 33.3%;
+  float: right;
+  background: #B8E986;
+}
+
+.img-placeholder {
+  width: 33.3%;
+  float: right;
+  background: #D0021B;
+}
